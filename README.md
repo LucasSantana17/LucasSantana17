@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Santana, muito prazer!! 😉
 
-- 🔭 Atualmente estudando front-end
+- 🔭 Atualmente estudando Back-end
 - 😎 POO
 - 🌱 Linguagens Java, e JavaScript
 
