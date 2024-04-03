@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Lucas Santana, muito prazer!! 😉
 
-- 🔭 Atualmente estudando Back-end
+- 🔭 Desenvolvedor Back-end
+- 🐱‍👤 javaScript, Node.js, express, mySQL
 - 😎 POO
 - 🌱 Linguagens Java, e JavaScript
 
